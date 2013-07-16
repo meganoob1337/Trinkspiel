@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Trinkspiel</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/10p.txt</name>
+			<type>1</type>
+			<location>C:/Users/Andrei/Documents/SE2/workspace2/Trinkspiel/10p.txt</location>
+		</link>
+		<link>
+			<name>src/20p.txt</name>
+			<type>1</type>
+			<location>C:/Users/Andrei/Documents/SE2/workspace2/Trinkspiel/20p.txt</location>
+		</link>
+		<link>
+			<name>src/80p.txt</name>
+			<type>1</type>
+			<location>C:/Users/Andrei/Documents/SE2/workspace2/Trinkspiel/80p.txt</location>
+		</link>
+		<link>
+			<name>src/bla.txt</name>
+			<type>1</type>
+			<location>C:/Users/Andrei/Documents/SE2/workspace2/Trinkspiel/src/de/anvier/Trinkspiel/bla.txt</location>
+		</link>
+	</linkedResources>
+</projectDescription>
